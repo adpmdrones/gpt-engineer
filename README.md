@@ -64,6 +64,8 @@ To get started, create a codespace for this repository by clicking this 👇
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/AntonOsika/gpt-engineer/codespaces)
 
+[![Open in ADPM Drones GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/adpmdrones/gpt-engineer/codespaces)
+
 ## Features
 
 You can specify the "identity" of the AI agent by editing the files in the `preprompts` folder.
